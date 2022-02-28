@@ -1,0 +1,23 @@
+id: PD9F2214C
+initial_creation_type: input
+source_metadata:
+  title: Acrostic Series
+  language: en
+  description: 'A series of acrostic or abecedarian forms of poetry and composition,
+    known in Tibetan as katsom (ka rtsom):'
+  volume:
+    6d4ea3baf010451b8df89ca3bf34152f:
+      title: Khandro's Plea
+      parent: Advice
+    91e4d061f69345038e286b2e3865a303:
+      title: 'A Blossoming of the Intellect: In Praise of the Great Pioneer Thönmi
+        Sambhoṭa'
+      parent: Praise
+    6f3883fc7065479b8181ec1393effa8d:
+      title: 'A Surge of Faith: Verses In Praise of Tārā'
+      parent: Praise
+    3173662a82f84588a3287ba9e463012f:
+      title: Acrostic Song
+      parent: Songs
+created_at: '2022-03-01T02:30:30.464022'
+last_modified_at: '2022-03-01T02:30:30.464028'
